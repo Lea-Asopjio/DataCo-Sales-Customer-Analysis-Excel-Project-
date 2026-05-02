@@ -96,6 +96,12 @@ This project simulates the role of a data analyst working with DataCo datasets. 
 
 ---
 
+## Dashboard Preview
+[Analyzing Churn.pdf](https://github.com/user-attachments/files/27294450/Analyzing.Churn.pdf)
+[Sales Dashboard.pdf](https://github.com/user-attachments/files/27294620/Sales.Dashboard.pdf)
+
+---
+
 ## Key Insights
 
 * Central region generates high sales but lower profit contribution
